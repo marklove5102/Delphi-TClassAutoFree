@@ -22,14 +22,12 @@ If you believe you can help improve this repository, please submit a PR, and I w
 
 ## Usage
 
-Object
-```pascal
+Example of how to use the TAutoFree class
+
+```Object pascal
 
 uses uClassAutoFree
 
-Example of how to use the TAutoFree class
-
-```pascal
 var
   LLocal: TMyClass;
 begin
@@ -41,3 +39,11 @@ begin
 end;
 
 ```
+
+<p align="center">
+<img src="img/Delphi.png" alt="Delphi">
+</p>
+<h5 align="center">
+
+Made with :heart: for Delphi
+</h5>
